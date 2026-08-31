@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sabnira Afrin Jemi 👋</h1>
+<h1 align="center">Hi, I'm Sabnira Afrin👋</h1>
 <h3 align="center">Frontend-leaning MERN Stack Developer</h3>
 
 <p align="center">
@@ -69,15 +69,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabnira&show_icons=true&theme=default&hide_border=true" alt="Sabnira's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabnira&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 <br/>
 
