@@ -27,7 +27,3 @@ Frontend-leaning **MERN Stack Developer** building responsive, user-focused web 
 **[Meal Restaurant](https://github.com/sabnira/meal-restaurant)** — Restaurant ordering system with Stripe payments and admin/user dashboards
 
 ---
-
-### 📊 GitHub Stats
-
-![Sabnira's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabnira&show_icons=true&theme=default)
