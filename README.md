@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sabnira Afrin👋</h1>
-<h3 align="center">Frontend-leaning MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   I build responsive, user-focused web applications with clean code and smooth UX.
