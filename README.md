@@ -129,6 +129,7 @@ const sabnira = {
       <p>A restaurant ordering solution that streamlines online food orders and payments. Includes Stripe checkout integration and separate dashboards for customers and administrators.</p>
       <p><b>Stack:</b> React · Node.js · Express · MongoDB · Stripe</p>
       <p>
+        <a href="https://meal-restaurant-11f1e.web.app/"><img src="https://img.shields.io/badge/Live_Demo-FACC15?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/></a>
         <a href="https://github.com/sabnira/meal-restaurant"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
       </p>
     </td>
@@ -137,6 +138,7 @@ const sabnira = {
       <p>A movie discovery application that makes it easy to explore, search, and save favorite movies through an interactive interface.</p>
       <p><b>Stack:</b> React · REST API</p>
       <p>
+        <a href="https://cinescope-e7f72.web.app/"><img src="https://img.shields.io/badge/Live_Demo-FACC15?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/></a>
         <a href="https://github.com/sabnira/cinescope"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
       </p>
     </td>
@@ -151,8 +153,9 @@ const sabnira = {
 <summary><b>🐾 PawsHome — Features & Functionality</b></summary>
 <br/>
 
-- ⚡ Responsive pet listing interface with **infinite scrolling** and MongoDB-backed pagination
-- ⚡ **Debounced search** and category filters to help users find relevant pets faster
+- ⚡ Responsive pet listing interface and MongoDB-backed pagination
+- ⚡ Search and category filters to help users find relevant pets faster
+- ⚡ Adoption request submission and management through a dedicated dashboard
 - ⚡ Firebase Authentication with email/password, Google, and Facebook sign-in
 - ⚡ User-friendly login forms with react-hook-form and captcha validation
 - ⚡ JWT-secured API requests through reusable Axios hooks
