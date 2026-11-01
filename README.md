@@ -1,6 +1,7 @@
+
 <!-- ═════════════ HEADER ═════════════ -->
 <p align="center">
-  <img src="banner.svg" alt="Sabnira Afrin – Full Stack Developer" width="100%"/>
+  <img src="banner.svg" alt="Sabnira Afrin – Frontend Developer" width="100%"/>
 </p>
 
 <p align="center">
@@ -21,32 +22,56 @@
 
 ## ⚡ About Me
 
-> 💛 I'm a **frontend-focused full stack developer** who enjoys turning ideas into fast, polished interfaces and backing them with solid server-side work. I build complete products end to end: **UI, authentication, REST APIs, databases, and deployment.**
+> 💛 I help turn ideas and designs into responsive, user-friendly web applications that look great and work smoothly across devices. Whether you need a polished frontend, a Figma-to-React conversion, or a complete web application, I focus on clean code, thoughtful UI, and a seamless user experience.
+>
+> I work primarily with React and modern frontend technologies, with hands-on experience building REST APIs, authentication systems, database integrations, and full-stack applications.
 
 ```js
 const sabnira = {
-  role: "Full Stack Developer (frontend-focused)",
+  role: "Frontend-Focused Full Stack Developer",
   education: "B.Sc. in Computer Science and Engineering",
   location: "Chattogram, Bangladesh",
-  stack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "Firebase"],
-  recentlyShipped: ["PawsHome", "ElectraFix", "Meal Restaurant", "CineScope"],
-  focus: "Clean, maintainable, scalable frontend code",
-  openTo: ["Frontend roles", "Full stack roles", "Collaborations"],
+
+  services: [
+    "Figma to React conversion",
+    "Responsive website development",
+    "Custom React UI development",
+    "Full-stack web applications",
+    "API and authentication integration",
+  ],
+
+  stack: [
+    "React",
+    "JavaScript",
+    "Tailwind CSS",
+    "Node.js",
+    "Express",
+    "MongoDB",
+  ],
+
+  focus: "Responsive UI, clean code, and seamless user experiences",
+
+  openTo: [
+    "Freelance Projects",
+    "Remote Opportunities",
+    "Collaborations",
+  ],
 };
 ```
 
 | | |
 | :-- | :-- |
 | 🎓 **Education** | B.Sc. in Computer Science and Engineering |
-| 💻 **Focus** | Frontend development with end-to-end MERN capabilities |
-| 🌟 **Always improving** | Writing clean, maintainable, scalable code |
+| 💻 **Specialization** | React Frontend Development & MERN Stack |
+| 🎨 **What I Build** | Responsive websites, custom UI, and web applications |
+| 🌟 **My Approach** | Clean code, user-friendly design, and maintainable solutions |
 | 📍 **Location** | Chattogram, Bangladesh |
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🛠️ Tech Stack
 
-**🎨 Frontend**
+**🎨 Frontend Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -64,7 +89,7 @@ const sabnira = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**🔐 Auth, Payments & Tools**
+**🔐 Authentication, Payments & Tools**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
@@ -82,7 +107,7 @@ const sabnira = {
   <tr>
     <td width="50%" valign="top">
       <h3>🐾 <a href="https://github.com/sabnira/pawshome">PawsHome</a></h3>
-      <p>A full-stack pet adoption platform with infinite-scroll listings, category filtering, and Firebase authentication.</p>
+      <p>A pet adoption platform designed to make finding and adopting pets easier. Includes searchable pet listings, category filters, secure authentication, and an intuitive adoption experience.</p>
       <p><b>Stack:</b> React · Node.js · Express · MongoDB · Firebase</p>
       <p>
         <a href="https://pawshome-5ed4f.web.app/"><img src="https://img.shields.io/badge/Live_Demo-FACC15?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/></a>
@@ -91,7 +116,7 @@ const sabnira = {
     </td>
     <td width="50%" valign="top">
       <h3>🔧 <a href="https://github.com/sabnira/electrafix">ElectraFix</a></h3>
-      <p>An electronics repair service marketplace connecting customers with repair providers, with real-time booking status tracking.</p>
+      <p>A service booking platform that helps customers find repair services and manage bookings. Includes service listings, secure accounts, booking management, and status tracking for service providers.</p>
       <p><b>Stack:</b> React · Node.js · Express · MongoDB · Firebase · JWT</p>
       <p>
         <a href="https://electrafix-98f49.web.app/"><img src="https://img.shields.io/badge/Live_Demo-FACC15?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/></a>
@@ -102,7 +127,7 @@ const sabnira = {
   <tr>
     <td width="50%" valign="top">
       <h3>🍽️ <a href="https://github.com/sabnira/meal-restaurant">Meal Restaurant</a></h3>
-      <p>A restaurant ordering system with Stripe payments and separate admin and user dashboards.</p>
+      <p>A restaurant ordering solution that streamlines online food orders and payments. Includes Stripe checkout integration and separate dashboards for customers and administrators.</p>
       <p><b>Stack:</b> React · Node.js · Express · MongoDB · Stripe</p>
       <p>
         <a href="https://github.com/sabnira/meal-restaurant"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
@@ -110,7 +135,7 @@ const sabnira = {
     </td>
     <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/sabnira/cinescope">CineScope</a></h3>
-      <p>A movie discovery portal for browsing and searching films.</p>
+      <p>A movie discovery application that makes it easy to explore, search, and save favorite movies through an interactive interface.</p>
       <p><b>Stack:</b> React · REST API</p>
       <p>
         <a href="https://github.com/sabnira/cinescope"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
@@ -124,67 +149,77 @@ const sabnira = {
 ## ✨ Project Highlights
 
 <details>
-<summary><b>🐾 PawsHome — what's inside</b></summary>
+<summary><b>🐾 PawsHome — Features & Functionality</b></summary>
 <br/>
 
-- ⚡ Pet listing page with **infinite scroll** (IntersectionObserver), MongoDB-backed pagination, **debounced search**, and category filtering
-- ⚡ Landing page with a hero section, stat counters, a **keen-slider** banner carousel, and a category browsing section linked to filtered routes
-- ⚡ **Firebase Authentication** with email/password, Google, and Facebook sign-in
-- ⚡ Login form built with **react-hook-form** and captcha validation
-- ⚡ JWT-secured API requests through reusable **Axios hooks** (public and secure instances)
-- ⚡ Themed with **Tailwind CSS + DaisyUI**, including custom-styled `react-select` dropdowns
+- ⚡ Responsive pet listing interface with **infinite scrolling** and MongoDB-backed pagination
+- ⚡ **Debounced search** and category filters to help users find relevant pets faster
+- ⚡ Firebase Authentication with email/password, Google, and Facebook sign-in
+- ⚡ User-friendly login forms with react-hook-form and captcha validation
+- ⚡ JWT-secured API requests through reusable Axios hooks
+- ⚡ Responsive UI built with Tailwind CSS and DaisyUI
 - ⚡ Deployed on Firebase Hosting
 
 </details>
 
 <details>
-<summary><b>🔧 ElectraFix — what's inside</b></summary>
+<summary><b>🔧 ElectraFix — Features & Functionality</b></summary>
 <br/>
 
-- ⚡ Secure authentication with email/password and **Google login**, with **JWT verification** on all private routes
-- ⚡ Service marketplace where users can **add, edit, and delete** their own listings
-- ⚡ Private **Manage Services** and **Booked Services** dashboards
-- ⚡ **Service To Do** workflow for providers to update booking status: `pending → working → completed`
-- ⚡ Real-time **search** to filter services by name
-- ⚡ **Dark/light theme** toggle and **Framer Motion** animations on the landing page
-- ⚡ Persistent login on private-route reloads, environment variables protecting Firebase and MongoDB credentials, and a stable production deployment
+- ⚡ Secure authentication with email/password and Google login
+- ⚡ JWT-protected private routes for authenticated users
+- ⚡ Service marketplace where providers can add, edit, and delete their own listings
+- ⚡ Dedicated dashboards for managing services and customer bookings
+- ⚡ Booking workflow with status updates: `pending → working → completed`
+- ⚡ Real-time service search to help users find what they need
+- ⚡ Dark/light theme toggle and Framer Motion animations
+- ⚡ Persistent login, protected credentials, and production deployment
 
 </details>
 
 <details>
-<summary><b>🍽️ Meal Restaurant — what's inside</b></summary>
+<summary><b>🍽️ Meal Restaurant — Features & Functionality</b></summary>
 <br/>
 
-- ⚡ Online food ordering flow with **Stripe** payment integration
-- ⚡ Separate **admin** and **user** dashboards
-- ⚡ Full-stack build on React, Node.js, Express, and MongoDB
+- ⚡ Online food ordering and checkout experience
+- ⚡ Stripe payment integration
+- ⚡ Separate admin and customer dashboards
+- ⚡ Full-stack application built with React, Node.js, Express, and MongoDB
 
 </details>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-## 🧩 What I Do
+## 💼 What I Can Help You With
 
-| Area | What I work on |
+| Service | How I Can Help |
 | :-- | :-- |
-| 🎨 **UI Development** | Responsive, component-based interfaces with React, Tailwind CSS, and DaisyUI |
-| ✨ **UX & Motion** | Smooth interactions, theme toggling, carousels, and animations with Framer Motion |
-| 🔐 **Authentication** | Firebase Auth (email/password and social login) with JWT-protected private routes |
-| ⚙️ **Backend & APIs** | RESTful APIs with Node.js and Express, connected to MongoDB |
-| 💳 **Payments** | Stripe integration for checkout flows |
-| 🚀 **Deployment** | Shipping and hosting full-stack apps with secured environment variables |
+| 🎨 **Figma to React** | Turn your Figma designs into clean, responsive React interfaces. |
+| 📱 **Responsive Websites** | Build websites that work smoothly across mobile, tablet, and desktop. |
+| ⚛️ **Custom React UI** | Develop reusable components and interactive interfaces tailored to your project. |
+| 🔗 **API Integration** | Connect your frontend with backend services and third-party APIs. |
+| 🔐 **Authentication** | Implement login, registration, social authentication, and protected routes. |
+| ⚙️ **Full-Stack Development** | Build functional web applications using React, Node.js, Express, and MongoDB. |
+| 💳 **Payment Integration** | Add Stripe-powered checkout and payment functionality. |
+| 🛠️ **Website Improvements** | Fix UI issues, improve existing components, and make interfaces responsive. |
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-## 🤝 Let's Connect
+## 🤝 Let's Work Together
 
-I'm open to frontend and full stack opportunities, collaborations, and conversations about web development. **Let's build something great together!** 💛
+Have a website idea, a Figma design, or an existing project that needs improvement?
+
+I can help you turn it into a responsive, functional, and user-friendly web experience with clean, maintainable code.
+
+I'm open to freelance projects, remote opportunities, and collaborations.
+
+**Let's bring your next web project to life!** 💛
 
 <p align="center">
   <a href="https://linkedin.com/in/sabnira-afrin"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-FACC15?style=for-the-badge&logo=linkedin&logoColor=black" alt="Connect on LinkedIn"/></a>
   <a href="https://github.com/sabnira"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by! ⭐ If you like my work, consider starring a repo.</i></p>
+<p align="center"><i>Thanks for visiting! ⭐ If you find my work useful, consider starring a repository.</i></p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
