@@ -22,7 +22,7 @@
 
 ## ⚡ About Me
 
-> 💛 I help turn ideas and designs into responsive, user-friendly web applications that look great and work smoothly across devices. Whether you need a polished frontend, a Figma-to-React conversion, or a complete web application, I focus on clean code, thoughtful UI, and a seamless user experience.
+> 💛 I help turn ideas and designs into responsive, user-friendly web applications that look great and work smoothly across devices. Whether you need a polished frontend or a complete web application, I focus on clean code, thoughtful UI, and a seamless user experience.
 >
 > I work primarily with React and modern frontend technologies, with hands-on experience building REST APIs, authentication systems, database integrations, and full-stack applications.
 
@@ -33,7 +33,6 @@ const sabnira = {
   location: "Chattogram, Bangladesh",
 
   services: [
-    "Figma to React conversion",
     "Responsive website development",
     "Custom React UI development",
     "Full-stack web applications",
@@ -107,7 +106,7 @@ const sabnira = {
   <tr>
     <td width="50%" valign="top">
       <h3>🐾 <a href="https://github.com/sabnira/pawshome">PawsHome</a></h3>
-      <p>A pet adoption platform designed to make finding and adopting pets easier. Includes searchable pet listings, category filters, secure authentication, and an intuitive adoption experience.</p>
+      <p>A pet adoption platform designed to make finding and adopting pets easier. Includes searchable pet listings, category filters, secure authentication, dedicated dashboard and an intuitive adoption experience.</p>
       <p><b>Stack:</b> React · Node.js · Express · MongoDB · Firebase</p>
       <p>
         <a href="https://pawshome-5ed4f.web.app/"><img src="https://img.shields.io/badge/Live_Demo-FACC15?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/></a>
