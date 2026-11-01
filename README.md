@@ -1,6 +1,6 @@
 <!-- ═════════════ HEADER ═════════════ -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Sabnira Afrin – Full Stack Developer" width="100%"/>
+  <img src="banner.svg" alt="Sabnira Afrin – Full Stack Developer" width="100%"/>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ const sabnira = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src="divider.svg" width="100%" alt=""/></p>
 
 ## 🌟 Featured Projects
 
