@@ -33,28 +33,18 @@ const sabnira = {
   location: "Chattogram, Bangladesh",
 
   services: [
-    "Responsive website development",
-    "Custom React UI development",
-    "Full-stack web applications",
-    "API and authentication integration",
+    "Responsive, mobile-first website development",
+    "Landing pages and business websites",
+    "Custom React UI and component development",
+    "End-to-end full-stack web applications",
+    "REST API, authentication, and payment integration",
   ],
 
-  stack: [
-    "React",
-    "JavaScript",
-    "Tailwind CSS",
-    "Node.js",
-    "Express",
-    "MongoDB",
-  ],
+  stack: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
 
-  focus: "Responsive UI, clean code, and seamless user experiences",
+  focus: "Building responsive, accessible interfaces with clean, maintainable code and seamless user experiences",
 
-  openTo: [
-    "Freelance Projects",
-    "Remote Opportunities",
-    "Collaborations",
-  ],
+  openTo: ["Freelance projects", "Remote opportunities", "Collaborations"],
 };
 ```
 
