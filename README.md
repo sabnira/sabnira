@@ -159,31 +159,6 @@ const sabnira = {
 
 <br/>
 
-## 📊 GitHub at a Glance
-
-<p align="center">
-  <a href="https://github.com/sabnira?tab=followers">
-    <img src="https://img.shields.io/github/followers/sabnira?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0A66C2" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/sabnira/pawshome">
-    <img src="https://img.shields.io/github/stars/sabnira/pawshome?style=for-the-badge&logo=github&logoColor=white&label=PawsHome%20stars&labelColor=181717&color=F97316" alt="PawsHome stars"/>
-  </a>
-  <a href="https://github.com/sabnira/electrafix">
-    <img src="https://img.shields.io/github/stars/sabnira/electrafix?style=for-the-badge&logo=github&logoColor=white&label=ElectraFix%20stars&labelColor=181717&color=0EA5E9" alt="ElectraFix stars"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sabnira/pawshome">
-    <img src="https://img.shields.io/github/last-commit/sabnira/pawshome?style=flat-square&label=PawsHome%20last%20commit" alt="PawsHome last commit"/>
-  </a>
-  <a href="https://github.com/sabnira/electrafix">
-    <img src="https://img.shields.io/github/last-commit/sabnira/electrafix?style=flat-square&label=ElectraFix%20last%20commit" alt="ElectraFix last commit"/>
-  </a>
-</p>
-
-<br/>
-
 ## 🤝 Let's Connect
 
 I'm open to frontend and full stack opportunities, collaborations, and conversations about web development. Feel free to reach out!
