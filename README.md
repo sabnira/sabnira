@@ -11,12 +11,12 @@
   <a href="https://electrafix-98f49.web.app/"><img src="https://img.shields.io/badge/ElectraFix-Live_Demo-FACC15?style=for-the-badge&logo=firebase&logoColor=black" alt="ElectraFix Live Demo"/></a>
 </p>
 
-<p align="center">
-  <!-- <img src="https://img.shields.io/badge/Projects-4_Shipped-FACC15?style=flat-square&labelColor=0b1020" alt="4 projects shipped"/>
-  <img src="https://img.shields.io/badge/Live_Apps-2-FACC15?style=flat-square&labelColor=0b1020" alt="2 live apps"/> -->
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Projects-4_Shipped-FACC15?style=flat-square&labelColor=0b1020" alt="4 projects shipped"/>
+  <img src="https://img.shields.io/badge/Live_Apps-2-FACC15?style=flat-square&labelColor=0b1020" alt="2 live apps"/>
   <img src="https://img.shields.io/badge/Stack-MERN-FACC15?style=flat-square&labelColor=0b1020" alt="MERN"/>
   <img src="https://img.shields.io/badge/Open_to-Opportunities-FACC15?style=flat-square&labelColor=0b1020" alt="Open to opportunities"/>
-</p>
+</p> -->
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
