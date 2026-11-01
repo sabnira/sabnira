@@ -1,23 +1,27 @@
-<div align="center">
+<!-- ═════════════ HEADER ═════════════ -->
+<p align="center">
+  <img src="assets/banner.svg" alt="Sabnira Afrin – Full Stack Developer" width="100%"/>
+</p>
 
-# Hi, I'm Sabnira Afrin 👋
+<p align="center">
+  <a href="https://linkedin.com/in/sabnira-afrin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/sabnira"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://pawshome-5ed4f.web.app/"><img src="https://img.shields.io/badge/PawsHome-Live_Demo-FACC15?style=for-the-badge&logo=firebase&logoColor=black" alt="PawsHome Live Demo"/></a>
+  <a href="https://electrafix-98f49.web.app/"><img src="https://img.shields.io/badge/ElectraFix-Live_Demo-FACC15?style=for-the-badge&logo=firebase&logoColor=black" alt="ElectraFix Live Demo"/></a>
+</p>
 
-### Full Stack Developer · Frontend-Focused · MERN
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-4_Shipped-FACC15?style=flat-square&labelColor=0b1020" alt="4 projects shipped"/>
+  <img src="https://img.shields.io/badge/Live_Apps-2-FACC15?style=flat-square&labelColor=0b1020" alt="2 live apps"/>
+  <img src="https://img.shields.io/badge/Stack-MERN-FACC15?style=flat-square&labelColor=0b1020" alt="MERN"/>
+  <img src="https://img.shields.io/badge/Open_to-Opportunities-FACC15?style=flat-square&labelColor=0b1020" alt="Open to opportunities"/>
+</p>
 
-*I build responsive, user-focused web applications with clean code and smooth UX.*
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabnira-afrin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabnira)
-[![PawsHome](https://img.shields.io/badge/PawsHome-Live-F97316?style=for-the-badge&logo=firebase&logoColor=white)](https://pawshome-5ed4f.web.app/)
-[![ElectraFix](https://img.shields.io/badge/ElectraFix-Live-0EA5E9?style=for-the-badge&logo=firebase&logoColor=white)](https://electrafix-98f49.web.app/)
+## ⚡ About Me
 
-</div>
-
-<br/>
-
-## 🚀 About Me
-
-I'm a **frontend-focused full stack developer** who enjoys turning ideas into fast, polished interfaces and backing them with solid server-side work. I build complete products end to end: UI, authentication, REST APIs, databases, and deployment.
+> 💛 I'm a **frontend-focused full stack developer** who enjoys turning ideas into fast, polished interfaces and backing them with solid server-side work. I build complete products end to end: **UI, authentication, REST APIs, databases, and deployment.**
 
 ```js
 const sabnira = {
@@ -35,14 +39,15 @@ const sabnira = {
 | :-- | :-- |
 | 🎓 **Education** | B.Sc. in Computer Science and Engineering |
 | 💻 **Focus** | Frontend development with end-to-end MERN capabilities |
-| 🌱 **Always improving** | Writing clean, maintainable, scalable code |
+| 🌟 **Always improving** | Writing clean, maintainable, scalable code |
 | 📍 **Location** | Chattogram, Bangladesh |
 
-<br/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**🎨 Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,13 +57,15 @@ const sabnira = {
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-### Backend & Database
+**⚙️ Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Auth, Payments & Tools
+**🔐 Auth, Payments & Tools**
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -67,42 +74,52 @@ const sabnira = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-## 📌 Featured Projects
+## 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sabnira/pawshome">🐾 PawsHome</a></h3>
+      <h3>🐾 <a href="https://github.com/sabnira/pawshome">PawsHome</a></h3>
       <p>A full-stack pet adoption platform with infinite-scroll listings, category filtering, and Firebase authentication.</p>
       <p><b>Stack:</b> React · Node.js · Express · MongoDB · Firebase</p>
-      <p><a href="https://pawshome-5ed4f.web.app/">🔗 Live Demo</a> · <a href="https://github.com/sabnira/pawshome">💻 Source Code</a></p>
+      <p>
+        <a href="https://pawshome-5ed4f.web.app/"><img src="https://img.shields.io/badge/Live_Demo-FACC15?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/></a>
+        <a href="https://github.com/sabnira/pawshome"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sabnira/electrafix">🔧 ElectraFix</a></h3>
+      <h3>🔧 <a href="https://github.com/sabnira/electrafix">ElectraFix</a></h3>
       <p>An electronics repair service marketplace connecting customers with repair providers, with real-time booking status tracking.</p>
       <p><b>Stack:</b> React · Node.js · Express · MongoDB · Firebase · JWT</p>
-      <p><a href="https://electrafix-98f49.web.app/">🔗 Live Demo</a> · <a href="https://github.com/sabnira/electrafix">💻 Source Code</a></p>
+      <p>
+        <a href="https://electrafix-98f49.web.app/"><img src="https://img.shields.io/badge/Live_Demo-FACC15?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/></a>
+        <a href="https://github.com/sabnira/electrafix"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sabnira/meal-restaurant">🍽️ Meal Restaurant</a></h3>
+      <h3>🍽️ <a href="https://github.com/sabnira/meal-restaurant">Meal Restaurant</a></h3>
       <p>A restaurant ordering system with Stripe payments and separate admin and user dashboards.</p>
       <p><b>Stack:</b> React · Node.js · Express · MongoDB · Stripe</p>
-      <p><a href="https://github.com/sabnira/meal-restaurant">💻 Source Code</a></p>
+      <p>
+        <a href="https://github.com/sabnira/meal-restaurant"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sabnira/cinescope">🎬 CineScope</a></h3>
+      <h3>🎬 <a href="https://github.com/sabnira/cinescope">CineScope</a></h3>
       <p>A movie discovery portal for browsing and searching films.</p>
       <p><b>Stack:</b> React · REST API</p>
-      <p><a href="https://github.com/sabnira/cinescope">💻 Source Code</a></p>
+      <p>
+        <a href="https://github.com/sabnira/cinescope"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+      </p>
     </td>
   </tr>
 </table>
 
-<br/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## ✨ Project Highlights
 
@@ -110,13 +127,13 @@ const sabnira = {
 <summary><b>🐾 PawsHome — what's inside</b></summary>
 <br/>
 
-- Pet listing page with **infinite scroll** (IntersectionObserver), MongoDB-backed pagination, **debounced search**, and category filtering
-- Landing page with a hero section, stat counters, a **keen-slider** banner carousel, and a category browsing section linked to filtered routes
-- **Firebase Authentication** with email/password, Google, and Facebook sign-in
-- Login form built with **react-hook-form** and captcha validation
-- JWT-secured API requests through reusable **Axios hooks** (public and secure instances)
-- Themed with **Tailwind CSS + DaisyUI**, including custom-styled `react-select` dropdowns
-- Deployed on Firebase Hosting
+- ⚡ Pet listing page with **infinite scroll** (IntersectionObserver), MongoDB-backed pagination, **debounced search**, and category filtering
+- ⚡ Landing page with a hero section, stat counters, a **keen-slider** banner carousel, and a category browsing section linked to filtered routes
+- ⚡ **Firebase Authentication** with email/password, Google, and Facebook sign-in
+- ⚡ Login form built with **react-hook-form** and captcha validation
+- ⚡ JWT-secured API requests through reusable **Axios hooks** (public and secure instances)
+- ⚡ Themed with **Tailwind CSS + DaisyUI**, including custom-styled `react-select` dropdowns
+- ⚡ Deployed on Firebase Hosting
 
 </details>
 
@@ -124,13 +141,13 @@ const sabnira = {
 <summary><b>🔧 ElectraFix — what's inside</b></summary>
 <br/>
 
-- Secure authentication with email/password and **Google login**, with **JWT verification** on all private routes
-- Service marketplace where users can **add, edit, and delete** their own listings
-- Private **Manage Services** and **Booked Services** dashboards
-- **Service To Do** workflow for providers to update booking status: `pending → working → completed`
-- Real-time **search** to filter services by name
-- **Dark/light theme** toggle and **Framer Motion** animations on the landing page
-- Persistent login on private-route reloads, environment variables protecting Firebase and MongoDB credentials, and a stable production deployment
+- ⚡ Secure authentication with email/password and **Google login**, with **JWT verification** on all private routes
+- ⚡ Service marketplace where users can **add, edit, and delete** their own listings
+- ⚡ Private **Manage Services** and **Booked Services** dashboards
+- ⚡ **Service To Do** workflow for providers to update booking status: `pending → working → completed`
+- ⚡ Real-time **search** to filter services by name
+- ⚡ **Dark/light theme** toggle and **Framer Motion** animations on the landing page
+- ⚡ Persistent login on private-route reloads, environment variables protecting Firebase and MongoDB credentials, and a stable production deployment
 
 </details>
 
@@ -138,13 +155,13 @@ const sabnira = {
 <summary><b>🍽️ Meal Restaurant — what's inside</b></summary>
 <br/>
 
-- Online food ordering flow with **Stripe** payment integration
-- Separate **admin** and **user** dashboards
-- Full-stack build on React, Node.js, Express, and MongoDB
+- ⚡ Online food ordering flow with **Stripe** payment integration
+- ⚡ Separate **admin** and **user** dashboards
+- ⚡ Full-stack build on React, Node.js, Express, and MongoDB
 
 </details>
 
-<br/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🧩 What I Do
 
@@ -157,19 +174,17 @@ const sabnira = {
 | 💳 **Payments** | Stripe integration for checkout flows |
 | 🚀 **Deployment** | Shipping and hosting full-stack apps with secured environment variables |
 
-<br/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🤝 Let's Connect
 
-I'm open to frontend and full stack opportunities, collaborations, and conversations about web development. Feel free to reach out!
+I'm open to frontend and full stack opportunities, collaborations, and conversations about web development. **Let's build something great together!** 💛
 
 <p align="center">
-  <a href="https://linkedin.com/in/sabnira-afrin">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="https://github.com/sabnira">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
-  </a>
+  <a href="https://linkedin.com/in/sabnira-afrin"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-FACC15?style=for-the-badge&logo=linkedin&logoColor=black" alt="Connect on LinkedIn"/></a>
+  <a href="https://github.com/sabnira"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ If you like my work, consider starring a repo.</i></p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
