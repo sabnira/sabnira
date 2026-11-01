@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-4_Shipped-FACC15?style=flat-square&labelColor=0b1020" alt="4 projects shipped"/>
-  <img src="https://img.shields.io/badge/Live_Apps-2-FACC15?style=flat-square&labelColor=0b1020" alt="2 live apps"/>
+  <!-- <img src="https://img.shields.io/badge/Projects-4_Shipped-FACC15?style=flat-square&labelColor=0b1020" alt="4 projects shipped"/>
+  <img src="https://img.shields.io/badge/Live_Apps-2-FACC15?style=flat-square&labelColor=0b1020" alt="2 live apps"/> -->
   <img src="https://img.shields.io/badge/Stack-MERN-FACC15?style=flat-square&labelColor=0b1020" alt="MERN"/>
   <img src="https://img.shields.io/badge/Open_to-Opportunities-FACC15?style=flat-square&labelColor=0b1020" alt="Open to opportunities"/>
 </p>
